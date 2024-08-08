@@ -2,7 +2,7 @@
 
 This is an example project that shows how to create a macOS Spotlight app using Tauri.
 
-> Tauri 2.0 Beta is now live! The [v2](https://github.com/ahkohd/tauri-macos-spotlight-example/tree/v2) branch includes a newer implementation of the spotlight app.
+> Tauri 2.0 RC is now live! The [v2](https://github.com/ahkohd/tauri-macos-spotlight-example/tree/v2) branch includes a newer implementation of the spotlight app.
 
 > Check out the [file-upload](https://github.com/ahkohd/tauri-macos-spotlight-example/tree/v1-file-upload) branch for an example of the spotlight app, now featuring file upload functionality. See it in action [here](https://github.com/ahkohd/tauri-macos-spotlight-example/issues/12#issuecomment-1826410794).
 
